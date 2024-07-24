@@ -8,17 +8,17 @@ Learning objetive :
 
 #### Microsoft learn link
 ##### To Understand the topic :
-1.Create a public load balancer to load balance VMs using the Azure portal :
+- 1.Create a public load balancer to load balance VMs using the Azure portal :
 https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-portal
-2.Create an internal load balancer to load balance VMs using the Azure portal
+- 2.Create an internal load balancer to load balance VMs using the Azure portal
 https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-internal-portal
 
 #### Hands on Lab link
-1.Create and configure an Azure load balancer
+- 1.Create and configure an Azure load balancer
 https://learn.microsoft.com/en-us/training/modules/load-balancing-non-https-traffic-azure/4-exercise-create-configure-azure-load-balancer
-2.Set up your environment
+- 2.Set up your environment
 https://learn.microsoft.com/en-gb/training/modules/troubleshoot-inbound-connectivity-azure-load-balancer/4-exercise-set-up-environment
-3.Identify and resolve inbound network connectivity
+- 3.Identify and resolve inbound network connectivity
 https://learn.microsoft.com/en-gb/training/modules/troubleshoot-inbound-connectivity-azure-load-balancer/5-exercise-identify-and-resolve-inbound-network-connectivity
 
 
