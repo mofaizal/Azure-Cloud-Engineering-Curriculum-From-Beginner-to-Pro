@@ -10,8 +10,6 @@ Learning objetive :
 01 Cloud Computing - Fundamental In Tamil கிளவுட் கம்ப்யூட்டிங் | Azure in Tamil
 <iframe width="560" height="315" src="https://www.youtube.com/embed/45Lszhw7Hqg?si=7_f5yB4oeLsuWhwr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-#### Hands on Lab link
-Not Applicable
 
 #### Microsoft learn link
 Describe cloud computing https://learn.microsoft.com/en-us/training/modules/describe-cloud-compute/
@@ -23,8 +21,6 @@ Describe cloud computing https://learn.microsoft.com/en-us/training/modules/desc
 #### YouTube Vidoe link 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MzJs25vp5JY?si=CnCzTKiOKG40PbRY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-#### Hands on Lab link
-
 #### Microsoft learn link
 Describe the benefits of using cloud services :  https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/ 
 Describe cloud service types :  https://learn.microsoft.com/en-us/training/modules/describe-cloud-service-types/
@@ -33,8 +29,3 @@ Describe cloud service types :  https://learn.microsoft.com/en-us/training/modul
 #### Microsoft on-demand video link 
 
 
-### Day # 2 : Introduction and Azure Fundamental 
-#### YouTube Vidoe link 
-#### Hands on Lab link
-#### Microsoft learn link
-#### Microsoft on-demand video link 
