@@ -19,6 +19,20 @@ Describe cloud computing https://learn.microsoft.com/en-us/training/modules/desc
 #### Microsoft on-demand video link 
 <iframe width="560" height="315" src="https://learn-video.azurefd.net/vod/player?show=on-demand-instructor-led-training-series&ep=az-104-module-1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+### Day # 1 : Cloud Benefit & Service Type - Azure in Tamil - கிளவுட் கம்ப்யூட்டிங் 
+#### YouTube Vidoe link 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MzJs25vp5JY?si=CnCzTKiOKG40PbRY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### Hands on Lab link
+
+#### Microsoft learn link
+Describe the benefits of using cloud services :  https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/ 
+Describe cloud service types :  https://learn.microsoft.com/en-us/training/modules/describe-cloud-service-types/
+
+
+#### Microsoft on-demand video link 
+
+
 ### Day # 2 : Introduction and Azure Fundamental 
 #### YouTube Vidoe link 
 #### Hands on Lab link
