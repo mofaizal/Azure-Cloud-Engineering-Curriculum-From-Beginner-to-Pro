@@ -3,9 +3,10 @@
 Learning objetive : 
 #### YouTube Vidoe link 
 Azure Load Balancer & 🛠️ Configuration In Tamil கிளவுட் கம்ப்யூட்டிங் | Azure in Tamil
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cctvef41W0o?si=8LkXb3Dgwp6k4UFH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TLAwFxio41s?si=f-5qVMIb9P9D7CwY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the YouTube Video](https://img.youtube.com/vi/cctvef41W0o/0.jpg)](https://www.youtube.com/watch?v=cctvef41W0o)
+
+[![Watch the YouTube Video](https://img.youtube.com/vi/TLAwFxio41s/0.jpg)](https://www.youtube.com/watch?v=TLAwFxio41s)
 
 
 
@@ -23,4 +24,3 @@ Azure Load Balancer & 🛠️ Configuration In Tamil கிளவுட் க�
 
 
 #### Microsoft on-demand video link 
-<iframe width="560" height="315" src="https://learn-video.azurefd.net/vod/player?show=on-demand-instructor-led-training-series&ep=az-104-module-1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
