@@ -2,8 +2,6 @@
 ### Day # 1 : Azure Load Balancer & 🛠️ Configuration 
 Learning objetive : 
 #### YouTube Vidoe link 
-Azure Load Balancer & 🛠️ Configuration In Tamil கிளவுட் கம்ப்யூட்டிங் | Azure in Tamil
-
 [![Watch the YouTube Video](https://img.youtube.com/vi/cctvef41W0o/0.jpg)](https://www.youtube.com/watch?v=cctvef41W0o)
 
 [![Watch the YouTube Video](https://img.youtube.com/vi/TLAwFxio41s/0.jpg)](https://www.youtube.com/watch?v=TLAwFxio41s)
@@ -20,6 +18,7 @@ Azure Load Balancer & 🛠️ Configuration In Tamil கிளவுட் க�
 - 1.[Create and configure an Azure load balancer](https://learn.microsoft.com/en-us/training/modules/load-balancing-non-https-traffic-azure/4-exercise-create-configure-azure-load-balancer)
 - 2.[Set up your environment](https://learn.microsoft.com/en-gb/training/modules/troubleshoot-inbound-connectivity-azure-load-balancer/4-exercise-set-up-environment)
 - 3.[Identify and resolve inbound network connectivity](https://learn.microsoft.com/en-gb/training/modules/troubleshoot-inbound-connectivity-azure-load-balancer/5-exercise-identify-and-resolve-inbound-network-connectivity)
+- 4.[Multiple frontends for Azure Load Balancer](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-multivip-overview)
 
 
 
