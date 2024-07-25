@@ -1,6 +1,7 @@
 ### Day # 7 : Admin Tools, Azure Portal, PowerShell & CLI
 #### YouTube Vidoe link 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cx8Ix36Mdao?si=h8jHdfmI9KvwbKtL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the YouTube Video](https://img.youtube.com/vi/cx8Ix36Mdao/0.jpg)](https://www.youtube.com/watch?v=cx8Ix36Mdao)
+
 
 #### Microsoft learn link
 Describe Azure portal: https://learn.microsoft.com/en-us/azure/azure-portal/azure-portal-overview
