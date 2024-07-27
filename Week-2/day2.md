@@ -2,20 +2,24 @@
 ### Day # 2 : 🔒 அசூர் ஸ்டோரேஜ் Account - Tamil | Mastering Azure Storage Account: Data Management Best Practices 📂
 Learning objetive : 
 #### YouTube Vidoe link 
-🔒 அசூர் ஸ்டோரேஜ் Account - Tamil | Mastering Azure Storage Account: Data Management Best Practices 📂 In Tamil கிளவுட் கம்ப்யூட்டிங் | Azure in Tamil
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QIT6JSrwgUw?si=ZlPiYvMBvSdgPV2L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the YouTube Video](https://img.youtube.com/vi/QIT6JSrwgUw/0.jpg)](https://www.youtube.com/watch?v=QIT6JSrwgUw)
+
 
 ### அசூர் ஸ்டோரேஜ் 📂 |🔍 Step-by-Step Demo: Master Azure Storage Account for Efficient Data Management 📦
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jchwoAIWUZw?si=lFUiFYlvvagmcBg_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[![Watch the YouTube Video](https://img.youtube.com/vi/jchwoAIWUZw/0.jpg)](https://www.youtube.com/watch?v=jchwoAIWUZw)
 
 ### 🚀 Mastering Azure Blob Storage: Data Management Made Simple 📂 | ப்ளாப் ஸ்டோரேஜ் Azure in Tamil
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HuytbSvZids?si=nKa3oavAx1swgOh6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[![Watch the YouTube Video](https://img.youtube.com/vi/HuytbSvZids/0.jpg)](https://www.youtube.com/watch?v=HuytbSvZids)
 
 ### 💡ப்ளாப் ஸ்டோரேஜ் Hands-On Demo | Azure Blob Storage : Practical Scenarios 📂 | Azure in Tamil
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t96XAix0mdI?si=l5pXQwVVIOZhbSph" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[![Watch the YouTube Video](https://img.youtube.com/vi/t96XAix0mdI/0.jpg)](https://www.youtube.com/watch?v=t96XAix0mdI)
 
 ### 🔒 ஸ்டோரேஜ் செக்யூரிட்டி 🛡️ | 🔒 Securing Your Azure Storage: Best Practices for Data Protection 🛡️
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W1ycaiWSlbk?si=1zFCfTfI0CqVHW_T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[![Watch the YouTube Video](https://img.youtube.com/vi/W1ycaiWSlbk/0.jpg)](https://www.youtube.com/watch?v=W1ycaiWSlbk)
 
 
 #### Microsoft learn link
@@ -34,6 +38,6 @@ Learning objetive :
 - 8.[Enable soft delete for blobs](https://learn.microsoft.com/en-gb/azure/storage/blobs/soft-delete-blob-enable?tabs=azure-portal)
 - 9.[Manage and restore soft-deleted blobs](https://learn.microsoft.com/en-gb/azure/storage/blobs/soft-delete-blob-manage)
 - 10.[Configure immutability policies for containers](https://learn.microsoft.com/en-us/azure/storage/blobs/immutable-policy-configure-container-scope?tabs=azure-portal)
+- 11.[Storage account overview](https://learn.microsoft.com/en-us/azure/storage/common/storage-account-overview?toc=%2Fazure%2Fstorage%2Fblobs%2Ftoc.json&bc=%2Fazure%2Fstorage%2Fblobs%2Fbreadcrumb%2Ftoc.json)
 
 #### Microsoft on-demand video link 
-<iframe width="560" height="315" src="https://learn-video.azurefd.net/vod/player?show=on-demand-instructor-led-training-series&ep=az-104-module-1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

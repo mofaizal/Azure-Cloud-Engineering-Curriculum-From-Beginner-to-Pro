@@ -2,10 +2,9 @@
 ### Day # 1 : Azure Load Balancer & 🛠️ Configuration 
 Learning objetive : 
 #### YouTube Vidoe link 
-Azure Load Balancer & 🛠️ Configuration In Tamil கிளவுட் கம்ப்யூட்டிங் | Azure in Tamil
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cctvef41W0o?si=8LkXb3Dgwp6k4UFH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the YouTube Video](https://img.youtube.com/vi/cctvef41W0o/0.jpg)](https://www.youtube.com/watch?v=cctvef41W0o)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TLAwFxio41s?si=f-5qVMIb9P9D7CwY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the YouTube Video](https://img.youtube.com/vi/TLAwFxio41s/0.jpg)](https://www.youtube.com/watch?v=TLAwFxio41s)
 
 
 
@@ -19,8 +18,8 @@ Azure Load Balancer & 🛠️ Configuration In Tamil கிளவுட் க�
 - 1.[Create and configure an Azure load balancer](https://learn.microsoft.com/en-us/training/modules/load-balancing-non-https-traffic-azure/4-exercise-create-configure-azure-load-balancer)
 - 2.[Set up your environment](https://learn.microsoft.com/en-gb/training/modules/troubleshoot-inbound-connectivity-azure-load-balancer/4-exercise-set-up-environment)
 - 3.[Identify and resolve inbound network connectivity](https://learn.microsoft.com/en-gb/training/modules/troubleshoot-inbound-connectivity-azure-load-balancer/5-exercise-identify-and-resolve-inbound-network-connectivity)
+- 4.[Multiple frontends for Azure Load Balancer](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-multivip-overview)
 
 
 
 #### Microsoft on-demand video link 
-<iframe width="560" height="315" src="https://learn-video.azurefd.net/vod/player?show=on-demand-instructor-led-training-series&ep=az-104-module-1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
