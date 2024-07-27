@@ -1,5 +1,6 @@
 ### Day # 7 : Admin Tools, Azure Portal, PowerShell & CLI
 #### YouTube Vidoe link 
+Admin Tools, Azure Portal, PowerShell & CLI | சிஎல்ஐ, பவர்சோல், போர்டல் என்றால் என்ன Azure In Tamil
 [![Watch the YouTube Video](https://img.youtube.com/vi/cx8Ix36Mdao/0.jpg)](https://www.youtube.com/watch?v=cx8Ix36Mdao)
 
 

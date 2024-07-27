@@ -1,5 +1,6 @@
 ### Day # 2 : Cloud Region & Availability Zone
 #### YouTube Vidoe link 
+03 Cloud Region & Availability Zone அசூர் ரிஜன் (டேட்டா சென்டர்) & அவைலபிலிட்டி ஜோன் Azure in Tamil
 [![Watch the YouTube Video](https://img.youtube.com/vi/3IBpsGgdt78/0.jpg)](https://www.youtube.com/watch?v=3IBpsGgdt78)
 
 
@@ -10,6 +11,7 @@ Describe Cloud Region & Availability Zone : https://learn.microsoft.com/en-us/az
 
 ### Day # 2 : Resource Group and Resource Lock
 #### YouTube Vidoe link 
+04 Resource Group and Resource Lock In Tamil with Demo - ரிசோர்ஸ் குரூப் & ரிசோர்ஸ் லாக்
 [![Watch the YouTube Video](https://img.youtube.com/vi/wCmtOzXT8EE/0.jpg)](https://www.youtube.com/watch?v=wCmtOzXT8EE)
 
 
@@ -20,7 +22,9 @@ Describe Resource Group and Resource Lock: https://learn.microsoft.com/en-us/azu
 
 ### Day # 2 : Azure Sandbox Subscription
 #### YouTube Vidoe link 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hgPo-ojAVP4?si=ZaeFaWZr1H6jsjQJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+05 Get FREE Azure Sandbox Subscription | அசூர் சாண்ட்பாக்ஸ் சப்ஸ்கிர்ப்சன் | Azure in Tamil
+[![Watch the YouTube Video](https://img.youtube.com/vi/hgPo-ojAVP4/0.jpg)](https://www.youtube.com/watch?v=hgPo-ojAVP4)
+
 
 #### Hands on Lab link
 

@@ -20,6 +20,7 @@ Describe cloud computing https://learn.microsoft.com/en-us/training/modules/desc
 
 ### Day # 1 : Cloud Benefit & Service Type - Azure in Tamil - கிளவுட் கம்ப்யூட்டிங் 
 #### YouTube Vidoe link 
+02 Cloud Benefit & Service Type - Azure in Tamil - கிளவுட் கம்ப்யூட்டிங்
 [![Watch the YouTube Video](https://img.youtube.com/vi/MzJs25vp5JY/0.jpg)](https://www.youtube.com/watch?v=MzJs25vp5JY)
 
 

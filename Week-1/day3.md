@@ -1,5 +1,6 @@
 ### Day # 3 : Virtual Machine
 #### YouTube Vidoe link 
+06 VM DEMO விர்ச்சுவல் மெஷின் – டெமோ | Azure Virtual Machines with Live Demo | Azure in Tamil
 [![Watch the YouTube Video](https://img.youtube.com/vi/rYzrTmbJCOc/0.jpg)](https://www.youtube.com/watch?v=rYzrTmbJCOc)
 
 
@@ -10,7 +11,9 @@ Describe Resource Group : https://learn.microsoft.com/en-us/azure/virtual-machin
 
 ### Day # 3 : Virtual Machine Demo
 #### YouTube Vidoe link 
-[![Watch the YouTube Video](https://img.youtube.com/vi/rYzrTmbJCOc/0.jpg)](https://www.youtube.com/watch?v=rYzrTmbJCOc)
+07 ரிசோர்ஸ் குரூப் அண்ட் விர்ச்சுவல் மெஷின் | Re-Cap Resource group and VM using Draw.io in Tamil
+[![Watch the YouTube Video](https://img.youtube.com/vi/4M3JFQ3fbGs/0.jpg)](https://www.youtube.com/watch?v=4M3JFQ3fbGs)
+
 
 
 #### Microsoft learn link
