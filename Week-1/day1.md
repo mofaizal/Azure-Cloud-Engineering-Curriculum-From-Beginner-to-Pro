@@ -8,7 +8,8 @@ Offical Study guide link https://learn.microsoft.com/en-gb/credentials/certifica
 Learning objetive : 
 #### YouTube Vidoe link 
 01 Cloud Computing - Fundamental In Tamil கிளவுட் கம்ப்யூட்டிங் | Azure in Tamil
-<iframe width="560" height="315" src="https://www.youtube.com/embed/45Lszhw7Hqg?si=7_f5yB4oeLsuWhwr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the YouTube Video](https://img.youtube.com/vi/45Lszhw7Hqg/0.jpg)](https://www.youtube.com/watch?v=45Lszhw7Hqg)
+
 
 
 #### Microsoft learn link
@@ -19,7 +20,8 @@ Describe cloud computing https://learn.microsoft.com/en-us/training/modules/desc
 
 ### Day # 1 : Cloud Benefit & Service Type - Azure in Tamil - கிளவுட் கம்ப்யூட்டிங் 
 #### YouTube Vidoe link 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MzJs25vp5JY?si=CnCzTKiOKG40PbRY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the YouTube Video](https://img.youtube.com/vi/MzJs25vp5JY/0.jpg)](https://www.youtube.com/watch?v=MzJs25vp5JY)
+
 
 #### Microsoft learn link
 Describe the benefits of using cloud services :  https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/ 

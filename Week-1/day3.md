@@ -1,6 +1,7 @@
 ### Day # 3 : Virtual Machine
 #### YouTube Vidoe link 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rYzrTmbJCOc?si=KOvxXGAkc11dDcWh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the YouTube Video](https://img.youtube.com/vi/rYzrTmbJCOc/0.jpg)](https://www.youtube.com/watch?v=rYzrTmbJCOc)
+
 
 #### Microsoft learn link
 Describe Resource Group : https://learn.microsoft.com/en-us/azure/virtual-machines/overview
@@ -9,7 +10,8 @@ Describe Resource Group : https://learn.microsoft.com/en-us/azure/virtual-machin
 
 ### Day # 3 : Virtual Machine Demo
 #### YouTube Vidoe link 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rYzrTmbJCOc?si=Xklirvih9ILCjcsu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the YouTube Video](https://img.youtube.com/vi/rYzrTmbJCOc/0.jpg)](https://www.youtube.com/watch?v=rYzrTmbJCOc)
+
 
 #### Microsoft learn link
 Describe Virtual Machine  : https://learn.microsoft.com/en-us/azure/virtual-machines/overview

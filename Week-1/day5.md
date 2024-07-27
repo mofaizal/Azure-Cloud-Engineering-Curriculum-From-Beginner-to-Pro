@@ -1,6 +1,7 @@
 ### Day # 5 : VNET - Virtual Network PART 2
 #### YouTube Vidoe link 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0fyg-6WcT9k?si=Bx4-Q_qkZGPen8Gp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the YouTube Video](https://img.youtube.com/vi/0fyg-6WcT9k/0.jpg)](https://www.youtube.com/watch?v=0fyg-6WcT9k)
+
 
 #### Microsoft learn link
 Describe Azure Virtual Network :https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview
@@ -12,7 +13,8 @@ Create VNET LAB Virtual Network : https://learn.microsoft.com/en-us/azure/virtua
 
 ### Day # 5 : Azure VNET Peering
 #### YouTube Vidoe link 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dOPdRN12xKU?si=8JxfF8wtTlJBIUn2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the YouTube Video](https://img.youtube.com/vi/dOPdRN12xKU/0.jpg)](https://www.youtube.com/watch?v=dOPdRN12xKU)
+
 
 #### Microsoft learn link
 Describe Azure VNet Peering :https://learn.microsoft.com/en-us/training/modules/configure-vnet-peering/

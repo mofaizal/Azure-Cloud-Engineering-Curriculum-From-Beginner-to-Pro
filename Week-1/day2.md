@@ -1,6 +1,7 @@
 ### Day # 2 : Cloud Region & Availability Zone
 #### YouTube Vidoe link 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3IBpsGgdt78?si=iQSWQifjbPbTFIgV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the YouTube Video](https://img.youtube.com/vi/3IBpsGgdt78/0.jpg)](https://www.youtube.com/watch?v=3IBpsGgdt78)
+
 
 #### Microsoft learn link
 Describe Cloud Region & Availability Zone : https://learn.microsoft.com/en-us/azure/reliability/availability-zones-service-support
@@ -9,7 +10,8 @@ Describe Cloud Region & Availability Zone : https://learn.microsoft.com/en-us/az
 
 ### Day # 2 : Resource Group and Resource Lock
 #### YouTube Vidoe link 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wCmtOzXT8EE?si=dgl6cfWEIl8tRspR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the YouTube Video](https://img.youtube.com/vi/wCmtOzXT8EE/0.jpg)](https://www.youtube.com/watch?v=wCmtOzXT8EE)
+
 
 #### Microsoft learn link
 Describe Resource Group and Resource Lock: https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/manage-resource-groups-portal
