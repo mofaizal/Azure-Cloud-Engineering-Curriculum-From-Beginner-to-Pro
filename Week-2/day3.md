@@ -1,6 +1,8 @@
 ## Week # 2
 ### Day # 3 : 💽🔵அசூர் டிஸ்க் |💾 Unlocking Azure Disk: Optimize Performance and Storage Efficiency 🚀 Azure in Tamil
-Learning objetive : 
+###### Learning objective :
+Dive into the world of Azure Disk with our comprehensive guide! Learn how to optimize performance and storage efficiency for your workloads in the cloud. From provisioning to scaling, we cover everything you need to know to make the most out of Azure Disk. Get ready to elevate your storage game! 💾
+
 #### YouTube Vidoe link 
 [![Watch the YouTube Video](https://img.youtube.com/vi/V0EyYR3Jm78/0.jpg)](https://www.youtube.com/watch?v=V0EyYR3Jm78)
 
@@ -26,7 +28,9 @@ Learning objetive :
 
 
 ### 📁 அசூர் ஃபைல்ஸ் | 🚀 Azure Files Hands-On Lab: Simplifying File Storage in the Cloud📄  Azure in Tamil
-Learning objetive : 
+###### Learning objective :
+🚀 📄  Immerse yourself in a hands-on Azure Files experience! Join us for practical demonstrations to simplify your file storage journey in the cloud. Learn how to create, manage, and share files with ease using Azure Files. Whether you're a beginner or an experienced user, this lab is your gateway to mastering file storage in Azure. Let's dive in and level up your skills! 💻
+ 
 #### YouTube Vidoe link 
 [![Watch the YouTube Video](https://img.youtube.com/vi/FWuuPVrYmZQ/0.jpg)](https://www.youtube.com/watch?v=FWuuPVrYmZQ)
 

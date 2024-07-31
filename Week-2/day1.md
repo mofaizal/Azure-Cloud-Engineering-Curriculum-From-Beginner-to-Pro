@@ -1,6 +1,12 @@
 ## Week # 2
 ### Day # 1 : Azure Load Balancer & 🛠️ Configuration 
-Learning objetive : 
+###### Learning objetive :
+Explore the ins and outs of Azure Load Balancer in this comprehensive tutorial. Learn how to optimize your Azure infrastructure for high availability, scalability, and fault tolerance with load balancing techniques. Dive deep into configuration, best practices, and real-world use cases to ensure seamless performance for your applications. Subscribe now and elevate your Azure skills!
+
+🔥 Dive into the world of Azure Load Balancer with our latest webinar! Learn how to achieve high availability and scalability in your cloud infrastructure using Azure's powerful load balancing capabilities. Join us for expert insights, practical demonstrations, and tips to optimize your Azure environment. Whether you're new to Azure or a seasoned pro, this webinar has something for everyone. Don't miss out! Watch now and take your cloud skills to the next level.
+
+
+
 #### YouTube Vidoe link 
 [![Watch the YouTube Video](https://img.youtube.com/vi/cctvef41W0o/0.jpg)](https://www.youtube.com/watch?v=cctvef41W0o)
 

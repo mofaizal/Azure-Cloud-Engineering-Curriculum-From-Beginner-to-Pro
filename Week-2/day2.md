@@ -1,24 +1,35 @@
 ## Week # 2
 ### Day # 2 : 🔒 அசூர் ஸ்டோரேஜ் Account - Tamil | Mastering Azure Storage Account: Data Management Best Practices 📂
-Learning objetive : 
+###### Learning objetive : 
+🚀 Dive into the world of Azure Storage Account with our comprehensive guide! Learn the best practices for efficient data management, from account setup to performance optimization. Whether you're a novice or an expert, this video has everything you need to streamline your data management in Azure. 💡
 #### YouTube Vidoe link 
 [![Watch the YouTube Video](https://img.youtube.com/vi/QIT6JSrwgUw/0.jpg)](https://www.youtube.com/watch?v=QIT6JSrwgUw)
 
 
 ### அசூர் ஸ்டோரேஜ் 📂 |🔍 Step-by-Step Demo: Master Azure Storage Account for Efficient Data Management 📦
-
+#### YouTube Vidoe link
 [![Watch the YouTube Video](https://img.youtube.com/vi/jchwoAIWUZw/0.jpg)](https://www.youtube.com/watch?v=jchwoAIWUZw)
 
-### 🚀 Mastering Azure Blob Storage: Data Management Made Simple 📂 | ப்ளாப் ஸ்டோரேஜ் Azure in Tamil
 
+### 🚀 Mastering Azure Blob Storage: Data Management Made Simple 📂 | ப்ளாப் ஸ்டோரேஜ் Azure in Tamil
+###### Learning objective :
+Unlock the power of Azure Blob Storage with our comprehensive guide! Learn how to efficiently manage your data in the cloud, from storing and organizing files to optimizing performance. Whether you're a beginner or an experienced user, this video has everything you need to make the most out of Azure Blob Storage. Don't miss out on streamlining your data management workflow! 💡
+
+#### YouTube Vidoe link
 [![Watch the YouTube Video](https://img.youtube.com/vi/HuytbSvZids/0.jpg)](https://www.youtube.com/watch?v=HuytbSvZids)
 
-### 💡ப்ளாப் ஸ்டோரேஜ் Hands-On Demo | Azure Blob Storage : Practical Scenarios 📂 | Azure in Tamil
 
+### 💡ப்ளாப் ஸ்டோரேஜ் Hands-On Demo | Azure Blob Storage : Practical Scenarios 📂 | Azure in Tamil
+###### Learning objective :
+Explore Azure Blob Storage through hands-on demos focusing on practical scenarios! Join us as we delve into real-world examples to help you understand how to effectively manage your data in the cloud. Whether you're new to Azure or looking to deepen your knowledge, this demo is perfect for gaining practical insights into Azure Blob Storage. Get ready to elevate your data management skills! 💻
+#### YouTube Vidoe link
 [![Watch the YouTube Video](https://img.youtube.com/vi/t96XAix0mdI/0.jpg)](https://www.youtube.com/watch?v=t96XAix0mdI)
+
 
 ### 🔒 ஸ்டோரேஜ் செக்யூரிட்டி 🛡️ | 🔒 Securing Your Azure Storage: Best Practices for Data Protection 🛡️
 
+###### Learning objective :
+Discover the essential security measures to safeguard your Azure Storage! In this video, we explore best practices and strategies to protect your data from unauthorized access and cyber threats. From encryption to access controls, we cover everything you need to know to ensure the security of your Azure Storage environment. Get ready to fortify your data defenses! 💪
 [![Watch the YouTube Video](https://img.youtube.com/vi/W1ycaiWSlbk/0.jpg)](https://www.youtube.com/watch?v=W1ycaiWSlbk)
 
 

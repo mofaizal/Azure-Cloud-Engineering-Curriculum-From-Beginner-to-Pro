@@ -1,10 +1,15 @@
 ## Week # 2
 ### Day # 5 : 📊 Mastering Azure SQL Database | அசூர் எஸ் கியூ எல் டேட்டா பேஸ் Ultimate Guide to Cloud Databases 🚀
-Learning objetive : 
-#### YouTube Vidoe link
+###### Learning objetive : 
+Unlock the full potential of Azure SQL Database with our comprehensive guide! Learn how to set up, manage, and optimize your databases in the cloud. Perfect for beginners and experienced users, this video covers best practices, performance tuning, and advanced features to help you get the most out of Azure SQL Database. 💡
 
+#### YouTube Vidoe link
 [![Watch the YouTube Video](https://img.youtube.com/vi/_5yXFlMyOuI/0.jpg)](https://www.youtube.com/watch?v=_5yXFlMyOuI)
 
+### 🔧 Azure SQL Database & Migration Hands-On Lab | அசூர் எஸ் கியூ எல் டேட்டா பேஸ் Step-by-Step Guide 📊
+###### Learning objetive :
+Join us for a practical, hands-on lab as we explore Azure SQL Database and the migration process! Learn how to set up your databases in Azure and migrate your data seamlessly. Perfect for both beginners and seasoned pros, this step-by-step guide covers all the essential techniques and best practices. Get ready to enhance your database management skills! 🚀
+#### YouTube Vidoe link
 [![Watch the YouTube Video](https://img.youtube.com/vi/_SLDpKE48y0/0.jpg)](https://www.youtube.com/watch?v=_SLDpKE48y0)
 
 #### Microsoft learn link
