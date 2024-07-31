@@ -9,8 +9,8 @@ Explore the ins and outs of Azure Load Balancer in this comprehensive tutorial. 
 ### 🔥💻 Step by Step | Setting up Azure Load Balancer from scratch 🛠️🚀 | அஸூர் லோட் பேலன்சர் in Tamil 🚀
 ###### Learning objetive :
 🔥 Dive into the world of Azure Load Balancer with our latest webinar! Learn how to achieve high availability and scalability in your cloud infrastructure using Azure's powerful load balancing capabilities. Join us for expert insights, practical demonstrations, and tips to optimize your Azure environment. Whether you're new to Azure or a seasoned pro, this webinar has something for everyone. Don't miss out! Watch now and take your cloud skills to the next level.
-[![Watch the YouTube Video](https://img.youtube.com/vi/TLAwFxio41s/0.jpg)](https://www.youtube.com/watch?v=TLAwFxio41s)
 
+[![Watch the YouTube Video](https://img.youtube.com/vi/TLAwFxio41s/0.jpg)](https://www.youtube.com/watch?v=TLAwFxio41s)
 
 
 #### Microsoft learn link
