@@ -20,7 +20,7 @@ Cloud computing fundamentally revolutionizes the way businesses operate by provi
 #### Microsoft on-demand video link 
 
 
-### Day # 1 : Cloud Benefit & Service Type - Azure in Tamil - கிளவுட் கம்ப்யூட்டிங்
+## Day  1 : Cloud Benefit & Service Type - Azure in Tamil - கிளவுட் கம்ப்யூட்டிங்
 # Learnig objective :
 Azure offers a plethora of benefits, including scalability, flexibility, cost-effectiveness, and global reach. It empowers businesses to innovate rapidly, reduce infrastructure costs, and scale resources on-demand, thereby enhancing efficiency and competitiveness in the digital landscape.
 
@@ -30,7 +30,7 @@ Azure offers a plethora of benefits, including scalability, flexibility, cost-ef
 
 
 #### Microsoft learn link
-# Describe the benefits of using cloud services :
+## Describe the benefits of using cloud services :
  https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/ 
 ## Describe cloud service types :
  https://learn.microsoft.com/en-us/training/modules/describe-cloud-service-types/
