@@ -28,6 +28,7 @@ https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-overvie
 
 # 🌐VNET LAB Virtual Network 
 ## 🎯Learning objective:
+A VNET Lab in Azure helps you master the essentials of virtual networking. Key objectives include understanding VNET architecture, creating and configuring VNETs and subnets, implementing network security groups (NSGs), and setting up VNET peering. You'll also learn to configure user-defined routes (UDRs), integrate on-premises networks with Azure via VPN gateways, and manage network traffic effectively. This hands-on experience is crucial for designing and managing secure, scalable network infrastructure in Azure.
 ## 📹YouTube Vidoe link 
 ### VNET LAB Virtual Network | விர்ச்சுவல் நெட்வொர்க் டெமோ | Azure in Tamil
 [![Watch the YouTube Video](https://img.youtube.com/vi/2eLuDr23hk8/0.jpg)](https://www.youtube.com/watch?v=2eLuDr23hk8)

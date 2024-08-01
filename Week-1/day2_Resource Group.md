@@ -1,6 +1,6 @@
 # Day  2 :🌍Cloud Region & Availability Zone
 ## 🎯Learning objective:
-
+Understand Cloud Regions and Availability Zones to enhance your cloud infrastructure. Learn what regions and availability zones are, their roles in improving performance and availability, and how to deploy resources effectively. Explore how to use these concepts for high availability, disaster recovery, and cost optimization while ensuring compliance with data regulations.
 ## 📹YouTube Vidoe link 
 ### Cloud Region & Availability Zone அசூர் ரிஜன் (டேட்டா சென்டர்) & அவைலபிலிட்டி ஜோன் Azure in Tamil
 [![Watch the YouTube Video](https://img.youtube.com/vi/3IBpsGgdt78/0.jpg)](https://www.youtube.com/watch?v=3IBpsGgdt78)
@@ -31,6 +31,7 @@ Resource Locks in Azure provide a way to prevent accidental deletion or modifica
 
 # 🏷️Azure Sandbox Subscription
 ## 🎯Learning objective:
+Using an Azure Sandbox Subscription allows you to explore and practice with Azure services in a controlled environment. Key objectives include learning to deploy and manage virtual machines, storage accounts, and virtual networks, mastering the Azure Portal and CLI, and understanding cost management and security best practices. This hands-on experience will equip you with essential skills for effective cloud computing.
 ## 📹YouTube Vidoe link 
 ### Get FREE Azure Sandbox Subscription | அசூர் சாண்ட்பாக்ஸ் சப்ஸ்கிர்ப்சன் | Azure in Tamil
 [![Watch the YouTube Video](https://img.youtube.com/vi/hgPo-ojAVP4/0.jpg)](https://www.youtube.com/watch?v=hgPo-ojAVP4)
