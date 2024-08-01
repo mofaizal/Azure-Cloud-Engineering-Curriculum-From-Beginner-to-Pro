@@ -1,17 +1,5 @@
-## Week # 2
-### Day # 2 : 🔒 அசூர் ஸ்டோரேஜ் Account - Tamil | Mastering Azure Storage Account: Data Management Best Practices 📂
-###### Learning objetive : 
-🚀 Dive into the world of Azure Storage Account with our comprehensive guide! Learn the best practices for efficient data management, from account setup to performance optimization. Whether you're a novice or an expert, this video has everything you need to streamline your data management in Azure. 💡
-#### YouTube Vidoe link 
-[![Watch the YouTube Video](https://img.youtube.com/vi/QIT6JSrwgUw/0.jpg)](https://www.youtube.com/watch?v=QIT6JSrwgUw)
-
-
-### அசூர் ஸ்டோரேஜ் 📂 |🔍 Step-by-Step Demo: Master Azure Storage Account for Efficient Data Management 📦
-#### YouTube Vidoe link
-[![Watch the YouTube Video](https://img.youtube.com/vi/jchwoAIWUZw/0.jpg)](https://www.youtube.com/watch?v=jchwoAIWUZw)
-
-
-### 🚀 Mastering Azure Blob Storage: Data Management Made Simple 📂 | ப்ளாப் ஸ்டோரேஜ் Azure in Tamil
+## Week # 3
+### Day # 2 : 🚀 Mastering Azure Blob Storage: Data Management Made Simple 📂 | ப்ளாப் ஸ்டோரேஜ் Azure in Tamil
 ###### Learning objective :
 Unlock the power of Azure Blob Storage with our comprehensive guide! Learn how to efficiently manage your data in the cloud, from storing and organizing files to optimizing performance. Whether you're a beginner or an experienced user, this video has everything you need to make the most out of Azure Blob Storage. Don't miss out on streamlining your data management workflow! 💡
 

@@ -1,5 +1,5 @@
-## Week # 2
-### Day # 5 : 📊 Mastering Azure SQL Database | அசூர் எஸ் கியூ எல் டேட்டா பேஸ் Ultimate Guide to Cloud Databases 🚀
+## Week # 4
+### Day # 1 : 📊 Mastering Azure SQL Database | அசூர் எஸ் கியூ எல் டேட்டா பேஸ் Ultimate Guide to Cloud Databases 🚀
 ###### Learning objetive : 
 Unlock the full potential of Azure SQL Database with our comprehensive guide! Learn how to set up, manage, and optimize your databases in the cloud. Perfect for beginners and experienced users, this video covers best practices, performance tuning, and advanced features to help you get the most out of Azure SQL Database. 💡
 
