@@ -1,5 +1,5 @@
 
-# Day 7 : 🛠️Admin Tools, Azure Portal, PowerShell & CLI
+# Day 2 : 🛠️Admin Tools, Azure Portal, PowerShell & CLI
 ## 🎯Learning objective:
 Mastering Azure administration tools involves understanding how to navigate and utilize the Azure Portal for resource management, employing Azure PowerShell for automation and scripting, and leveraging the Azure CLI for efficient command-line operations. Key objectives include creating and managing resources, automating repetitive tasks, and optimizing workflows. This knowledge ensures efficient and effective administration of Azure environments.
 ## 📹YouTube Vidoe link 

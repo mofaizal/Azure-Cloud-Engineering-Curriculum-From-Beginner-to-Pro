@@ -1,3 +1,4 @@
+# week 2
 # Day 1: 🔐Network Security Group Concept
 ## 🎯Learning objecive:
 A Network Security Group (NSG) is a fundamental component of Azure networking that acts as a virtual firewall to control inbound and outbound traffic to Azure resources. NSGs allow you to define security rules that specify which types of traffic are allowed or denied based on source and destination IP addresses, ports, and protocols. By applying NSGs to virtual networks or individual resources, you can enforce network security policies and protect your Azure infrastructure from unauthorized access and cyber threats.

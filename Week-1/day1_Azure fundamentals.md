@@ -3,7 +3,7 @@ This repository offers a comprehensive curriculum designed to take you from a be
 
 Offical Study guide link https://learn.microsoft.com/en-gb/credentials/certifications/resources/study-guides/az-104 
 
-## Week # 1
+# Week  1
 ## Day  1 : 📘Introduction and Azure Fundamental 
 ## 🎯Learning objetive : 
 Cloud computing fundamentally revolutionizes the way businesses operate by providing access to computing resources and services over the internet. It enables users to build, deploy, and manage applications without the need for physical infrastructure, offering scalability, flexibility, and cost-effectiveness. Understanding the basics of cloud computing is crucial for anyone looking to leverage its benefits in today's digital age. 
