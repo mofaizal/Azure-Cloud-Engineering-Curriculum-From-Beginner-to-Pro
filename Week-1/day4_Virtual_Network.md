@@ -45,6 +45,7 @@ A VNET Lab in Azure helps you master the essentials of virtual networking. Key o
 
 # 🌐IP Address, Public IP and Private IP
 ## 🎯Learning objective:
+Understand the concepts of IP addresses, including the differences between public and private IP addresses, and their roles in networking. Learn how to identify and use public and private IP addresses in various networking scenarios. Gain practical skills in configuring IP addresses for devices in both local networks and the internet, ensuring proper communication and security.
 ## 📹YouTube Vidoe link 
 ### IP Address, Public IP and Private IP | ஐபி அட்ரஸ், பப்ளிக் ஐபி & பிரைவேட் ஐபி Azure in Tamil
 [![Watch the YouTube Video](https://img.youtube.com/vi/oP2hxZptpV0/0.jpg)](https://www.youtube.com/watch?v=oP2hxZptpV0)
