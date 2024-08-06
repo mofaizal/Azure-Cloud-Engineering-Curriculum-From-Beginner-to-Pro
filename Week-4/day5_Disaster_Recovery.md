@@ -5,12 +5,13 @@
 
 #### YouTube Vidoe link
 
-<!-- Coming Soon -->
+> Coming Soon
 
 #### Microsoft learn link
 - 1.[Prepare for disaster recovery with Azure Site Recovery](https://learn.microsoft.com/en-us/training/modules/protect-infrastructure-with-site-recovery/3-site-recovery-setup)
 
 #### Hands on Lab link
+##### Azure site Recovery 
 - 1.[Exercise - Set up disaster recovery with Azure Site Recovery](https://learn.microsoft.com/en-us/training/modules/protect-infrastructure-with-site-recovery/4-exercise-site-recovery-setup)
 - 2.[Exercise - Run a disaster recovery drill](https://learn.microsoft.com/en-us/training/modules/protect-infrastructure-with-site-recovery/6-exercise-run-disaster-recovery-drill)
 - 3.[Exercise - Failover and failback using Azure Site Recovery](https://learn.microsoft.com/en-us/training/modules/protect-infrastructure-with-site-recovery/8-exercise-failover-and-failback)
