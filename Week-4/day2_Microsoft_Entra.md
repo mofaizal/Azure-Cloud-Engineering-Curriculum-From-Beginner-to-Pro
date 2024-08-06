@@ -6,7 +6,6 @@ Discover the power of Microsoft Entra for top-notch identity and access manageme
 #### YouTube Vidoe link
 [![Watch the YouTube Video](https://img.youtube.com/vi/6CtRhBYrorw/0.jpg)](https://www.youtube.com/watch?v=6CtRhBYrorw)
 
-### 🛠️ Microsoft Entra Hands-On Lab: Master Identity & Access Management 🚀
 ###### Learning objetive :
 Join us for a practical, hands-on lab with Microsoft Entra! Learn how to set up, configure, and optimize identity and access management for your organization. This step-by-step guide will help you secure your environment and manage identities effectively. Perfect for IT professionals looking to enhance their skills. 🔐
 
