@@ -12,10 +12,8 @@
 
 #### Hands on Lab link
 - 1.[Exercise - Set up disaster recovery with Azure Site Recovery](https://learn.microsoft.com/en-us/training/modules/protect-infrastructure-with-site-recovery/4-exercise-site-recovery-setup)
-
-
-- 1.[Exercise - Run a disaster recovery drill](https://learn.microsoft.com/en-us/training/modules/protect-infrastructure-with-site-recovery/6-exercise-run-disaster-recovery-drill)
-- 2.[Exercise - Failover and failback using Azure Site Recovery](https://learn.microsoft.com/en-us/training/modules/protect-infrastructure-with-site-recovery/8-exercise-failover-and-failback)
+- 2.[Exercise - Run a disaster recovery drill](https://learn.microsoft.com/en-us/training/modules/protect-infrastructure-with-site-recovery/6-exercise-run-disaster-recovery-drill)
+- 3.[Exercise - Failover and failback using Azure Site Recovery](https://learn.microsoft.com/en-us/training/modules/protect-infrastructure-with-site-recovery/8-exercise-failover-and-failback)
 
 ##### VM Backup - LAB :
 - 1.[Exercise - Back up an Azure virtual machine](https://learn.microsoft.com/en-us/training/modules/protect-virtual-machines-with-azure-backup/4-exercise-back-up-azure-virtual-machine)
